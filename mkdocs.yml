@@ -1,8 +1,8 @@
 site_name: statsjunk
 site_description: A collection of statistical odds and ends.
-site_url: https://outliersanalytics.github.io/statsjunk/
-repo_url: https://github.com/OutliersAnalytics/statsjunk
-repo_name: OutliersAnalytics/statsjunk
+site_url: https://www.gustavofurtado.com/statsjunk/
+repo_url: https://github.com/GusFurtado/statsjunk
+repo_name: GusFurtado/statsjunk
 edit_uri: edit/main/docs/
 
 extra_css:
