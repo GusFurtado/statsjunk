@@ -20,9 +20,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/OutliersAnalytics/statsjunk"
-Repository = "https://github.com/OutliersAnalytics/statsjunk"
-Issues = "https://github.com/OutliersAnalytics/statsjunk/issues"
+Homepage = "https://github.com/GusFurtado/statsjunk"
+Repository = "https://github.com/GusFurtado/statsjunk"
+Documentation = "https://www.gustavofurtado.com/statsjunk/"
+Issues = "https://github.com/GusFurtado/statsjunk/issues"
 
 [dependency-groups]
 dev = [
