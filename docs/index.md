@@ -61,4 +61,4 @@ always works regardless of where a function actually lives.
 | [`regression`](reference/regression.md) | Simple and multiple linear regression, with standardized coefficients and VIFs |
 | [`spatial`](reference/spatial.md) | Global Moran's I spatial autocorrelation |
 | [`elections`](reference/elections.md) | Laakso-Taagepera effective number of parties/candidates |
-| [`samplesize`](reference/samplesize.md) | Minimum sample size for continuous, binary, and survival prediction models (a Python port of R's [`pmsampsize`](https://cran.r-project.org/package=pmsampsize)) |
+| [`samplesize`](reference/samplesize.md) | Minimum sample size for continuous, binary, and survival prediction models (the criteria of Riley et al., the same ones R's [`pmsampsize`](https://cran.r-project.org/package=pmsampsize) implements) |

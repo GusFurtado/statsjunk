@@ -8,8 +8,8 @@ statsjunk is released under the
 ## Credits
 
 Built on [NumPy](https://numpy.org), [SciPy](https://scipy.org) and
-[Pydantic](https://docs.pydantic.dev/). The `samplesize` module is a Python port of R's
-[`pmsampsize`](https://cran.r-project.org/package=pmsampsize). Each function's reference page
+[Pydantic](https://docs.pydantic.dev/). The `samplesize` module implements the criteria of Riley et al., the same ones
+R's [`pmsampsize`](https://cran.r-project.org/package=pmsampsize) implements. Each function's reference page
 cites the paper it implements.
 
 ## Contributing
