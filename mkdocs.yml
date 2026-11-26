@@ -44,6 +44,7 @@ nav:
       - spatial: reference/spatial.md
       - elections: reference/elections.md
       - samplesize: reference/samplesize.md
+  - About: about.md
 
 plugins:
   - search
