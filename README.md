@@ -34,6 +34,6 @@ pip install statsjunk
 - **`regression`**: simple and multiple linear regression, with standardized coefficients and VIFs.
 - **`spatial`**: global Moran's I spatial autocorrelation.
 - **`elections`**: Laakso-Taagepera effective number of parties.
-- **`samplesize`**: minimum sample size for prediction models, a port of R's [`pmsampsize`](https://cran.r-project.org/package=pmsampsize).
+- **`samplesize`**: minimum sample size for prediction models, with the criteria of Riley et al., the same ones R's [`pmsampsize`](https://cran.r-project.org/package=pmsampsize) implements.
 
 See the [API reference](https://www.gustavofurtado.com/statsjunk/reference/correlation/) for every function.
